@@ -9,3 +9,5 @@ Todos los créditos van dirigidos hacia los autores de las presentaciones.
 
 Master in Engineering Management
 
+
+#mem #mgi #itesm #udem
